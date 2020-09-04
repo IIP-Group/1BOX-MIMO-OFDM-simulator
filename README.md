@@ -21,7 +21,7 @@ new set of parameters. Additionally, define what combination of channel estimato
 in the par_config.m file. The cell array par.quant_list, specifies for each pair of channel estimator/data detector, whether infinite resolution or 1-bit ADCs
 are considered.
  	
-We highly recommend you to execute the code step-by-step (using MATLAB's debug mode) in order to get a detailed understanding of the simulator.
+We highly recommend you to execute the code step-by-step (using MATLAB's debug mode) in order to get a detailed understanding of the simulator. In order to do so, you should change the parfor in the main_BER_sim.m to a simple for (just replace parfor with for) so that debugging is possible.
 
 ### Version history
 * Version 1 (Sep. 03 2020) - sm2675@cornell.edu  - uploaded the simulation
