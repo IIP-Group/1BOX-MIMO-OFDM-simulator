@@ -9,7 +9,7 @@ If you are using the simulator (or parts of it) for a publication, then you *mus
 
 S. H. Mirfarshbafan, M. Shabany, S. A. Nezamalhosseini, and C. Studer, "Algorithm and VLSI Design for 1-bit Data Detection in Massive MIMO-OFDM", IEEE Open J. of Circuits and Sys. (OJCAS), to appear in 2020
 
-and clearly mention this in your paper.  In the following, by *papr*, we mean the above paper.
+and clearly mention this in your paper.  In the following, by *paper*, we mean the above paper.
 
 ### How to start a simulation:
 
